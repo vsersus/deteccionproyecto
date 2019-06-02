@@ -1,0 +1,26 @@
+<annotation>
+	<folder>X</folder>
+	<filename>3da91bfe22fab1491ad1aa87d729a762-700.jpg</filename>
+	<path>G:\My Drive\7 SEPTIMO SEMESTRE\REDES NEURONALES\ISA Y VANE REDES\PROYECTO REDES\selfies\X\3da91bfe22fab1491ad1aa87d729a762-700.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>933</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>223</ymin>
+			<xmax>646</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>
