@@ -1,38 +1,26 @@
 <annotation>
-	<folder>selfies data augmentadas</folder>
+	<folder>X</folder>
 	<filename>image_32.jpg</filename>
-	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_32.jpg</path>
+	<path>G:\My Drive\7 SEPTIMO SEMESTRE\REDES NEURONALES\ISA Y VANE REDES\PROYECTO REDES\selfies\X\image_32.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>1280</height>
+		<width>933</width>
+		<height>700</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ISABELLA</name>
+		<name>UNKNOWN</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>685</ymin>
-			<xmax>572</xmax>
-			<ymax>1124</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>VANESSA</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>465</xmin>
-			<ymin>509</ymin>
-			<xmax>913</xmax>
-			<ymax>887</ymax>
+			<xmin>183</xmin>
+			<ymin>1</ymin>
+			<xmax>901</xmax>
+			<ymax>593</ymax>
 		</bndbox>
 	</object>
 </annotation>

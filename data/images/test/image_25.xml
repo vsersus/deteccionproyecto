@@ -1,38 +1,26 @@
 <annotation>
-	<folder>selfies data augmentadas</folder>
+	<folder>PROYECTO CONTROL I</folder>
 	<filename>image_25.jpg</filename>
-	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_25.jpg</path>
+	<path>G:\My Drive\7 SEPTIMO SEMESTRE\CONTROL I\PROYECTO CONTROL I\image_25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>1280</height>
+		<width>933</width>
+		<height>700</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ISABELLA</name>
+		<name>UNKNOWN</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>385</xmin>
-			<ymin>396</ymin>
-			<xmax>618</xmax>
-			<ymax>607</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>VANESSA</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>253</xmin>
-			<ymin>549</ymin>
-			<xmax>492</xmax>
-			<ymax>717</ymax>
+			<xmin>229</xmin>
+			<ymin>225</ymin>
+			<xmax>680</xmax>
+			<ymax>563</ymax>
 		</bndbox>
 	</object>
 </annotation>
