@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>image_258.jpg</filename>
+	<path>D:\Users\vanessa.salinas.UAO\Downloads\image_258.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ISABELLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>126</ymin>
+			<xmax>639</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
