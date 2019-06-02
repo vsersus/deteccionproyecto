@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no labeliadas</folder>
+	<filename>image_68.jpg</filename>
+	<path>D:\DETECCION PROYECTO REDES\no labeliadas\image_68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ISABELLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>359</ymin>
+			<xmax>337</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>
