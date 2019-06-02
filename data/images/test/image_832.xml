@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no labeliadas</folder>
+	<filename>image_832.jpg</filename>
+	<path>D:\DETECCION PROYECTO REDES\no labeliadas\image_832.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>VANESSA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>53</ymin>
+			<xmax>625</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
