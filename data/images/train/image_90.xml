@@ -1,26 +1,26 @@
 <annotation>
-	<folder>selfies data augmentadas</folder>
+	<folder>no labeliadas</folder>
 	<filename>image_90.jpg</filename>
-	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_90.jpg</path>
+	<path>D:\DETECCION PROYECTO REDES\no labeliadas\image_90.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2448</width>
-		<height>3264</height>
+		<width>316</width>
+		<height>316</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>VANESSA</name>
+		<name>ISABELLA</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>721</xmin>
+			<xmin>103</xmin>
 			<ymin>1</ymin>
-			<xmax>1894</xmax>
-			<ymax>1459</ymax>
+			<xmax>262</xmax>
+			<ymax>202</ymax>
 		</bndbox>
 	</object>
 </annotation>
