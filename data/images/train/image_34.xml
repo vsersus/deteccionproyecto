@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>image_34.jpg</filename>
+	<path>D:\Users\vanessa.salinas.UAO\Downloads\image_34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>700</xmin>
+			<ymin>152</ymin>
+			<xmax>906</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

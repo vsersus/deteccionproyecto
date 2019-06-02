@@ -1,13 +1,13 @@
 <annotation>
-	<folder>selfies data augmentadas</folder>
+	<folder>Downloads</folder>
 	<filename>image_46.jpg</filename>
-	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_46.jpg</path>
+	<path>D:\Users\vanessa.salinas.UAO\Downloads\image_46.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>960</width>
-		<height>1280</height>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>293</xmin>
-			<ymin>619</ymin>
-			<xmax>458</xmax>
-			<ymax>831</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>VANESSA</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>468</xmin>
-			<ymin>625</ymin>
-			<xmax>656</xmax>
-			<ymax>840</ymax>
+			<xmin>165</xmin>
+			<ymin>188</ymin>
+			<xmax>311</xmax>
+			<ymax>406</ymax>
 		</bndbox>
 	</object>
 </annotation>

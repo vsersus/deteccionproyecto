@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PROYECTO CONTROL I</folder>
+	<filename>image_56.jpg</filename>
+	<path>G:\My Drive\7 SEPTIMO SEMESTRE\CONTROL I\PROYECTO CONTROL I\image_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>511</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>
