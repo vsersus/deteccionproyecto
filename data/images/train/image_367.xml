@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>image_367.jpg</filename>
+	<path>D:\Users\vanessa.salinas.UAO\Downloads\image_367.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2045</width>
+		<height>1409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ISABELLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>717</ymin>
+			<xmax>1317</xmax>
+			<ymax>1262</ymax>
+		</bndbox>
+	</object>
+</annotation>
