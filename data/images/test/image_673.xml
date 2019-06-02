@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no labeliadas</folder>
+	<filename>image_673.jpg</filename>
+	<path>D:\DETECCION PROYECTO REDES\no labeliadas\image_673.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>542</ymin>
+			<xmax>393</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
